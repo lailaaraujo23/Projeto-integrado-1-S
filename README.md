@@ -6,6 +6,7 @@ Projeto Integrado - Consultoria de Segurança Digital (Contabilidade)
 
 Este projeto consiste no desenvolvimento de uma Cartilha de Segurança Digital estratégica para um escritório de contabilidade fictício. O objetivo é capacitar o contador e seus clientes na proteção de dados sensíveis, prevenção de golpes financeiros e conformidade com a LGPD.
 Como este é um projeto de Análise e Desenvolvimento de Sistemas (TADS) focado em planejamento, o trabalho prioriza a documentação técnica, análise de riscos e educação em cibersegurança, sem o desenvolvimento de software.
+
 👥 Estrutura do Grupo (6 Integrantes)
 
 Conforme as orientações do manual, o grupo está organizado nos seguintes papéis:
