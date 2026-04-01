@@ -1,20 +1,20 @@
-# Projeto-integrado-1-S
-
-1. INTRODUÇÃO
-
-Atualmente, a gestão financeira pessoal enfrenta o desafio da falta de organização nos gastos cotidianos e da volatilidade do mercado global. Muitos usuários possuem dificuldade em categorizar despesas fixas e variáveis, resultando em uma visão distorcida do saldo real ao final do mês. Além disso, com a globalização dos investimentos, surge a demanda por ferramentas que monitorem, em tempo real, ativos e cotações de moedas como o Dólar e o Euro para auxiliar na tomada de decisão sobre oportunidades de compra e quedas de mercado.  
-
-Justificativa:
-Este projeto é relevante pois une a organização do orçamento doméstico à sofisticação da análise de investimentos. Ao oferecer um layout simplificado e dados em tempo real, a ferramenta proporciona educação financeira e agilidade, beneficiando o usuário que busca não apenas economizar, mas também rentabilizar seu capital em um cenário econômico dinâmico.  
-
-2. OBJETIVOS
- 
-2.1 Objetivo Geral
-Desenvolver um aplicativo móvel para registro de despesas e monitoramento de investimentos globais em tempo real, auxiliando na saúde financeira e na identificação de oportunidades no mercado de capitais. 
-
-2.2 Objetivos Específicos
-Descrever as categorias de gastos mais comuns para facilitar o preenchimento e a classificação automática por parte do usuário.  
-Implementar uma função de metas de economia mensal para incentivar o controle orçamentário e a disciplina financeira.  
-Apresentar um layout simplificado que garanta rapidez no lançamento das despesas e na visualização de dados críticos do mercado.  
-Configurar uma integração de dados para exibição da cotação em tempo real de moedas estrangeiras e ações globais.  
-Identificar e sinalizar oportunidades de investimento baseadas em quedas e altas do mercado para o perfil do usuário. 
+Projeto Integrado - Consultoria de Segurança Digital (Contabilidade)
+📌 Sobre o Projeto
+Este projeto consiste no desenvolvimento de uma Cartilha de Segurança Digital estratégica para um escritório de contabilidade fictício. O objetivo é capacitar o contador e seus clientes na proteção de dados sensíveis, prevenção de golpes financeiros e conformidade com a LGPD.
+Como este é um projeto de Análise e Desenvolvimento de Sistemas (TADS) focado em planejamento, o trabalho prioriza a documentação técnica, análise de riscos e educação em cibersegurança, sem o desenvolvimento de software.
+👥 Estrutura do Grupo (6 Integrantes)
+Conforme as orientações do manual, o grupo está organizado nos seguintes papéis:
+Líder do Sprint: Laila de Araújo de Jesus (Gestão e Revisão).
+Documentação ABNT: Responsáveis pela padronização e redação do relatório.
+Responsáveis Técnicos: Criação da Matriz de Riscos e Análise de Segurança.
+Responsável por Evidências: Design da Cartilha e organização do repositório.
+📂 Organização do Repositório
+Seguindo o padrão obrigatório:
+/docs: Relatório formal ABNT, Metodologia e Objetivos.
+/evidencias: Matriz de Riscos, imagens do design da cartilha e referências de pesquisa.
+/scripts: Checklist de rotina de segurança para o contador e clientes (.txt).
+/src: Versão final da Cartilha em PDF.
+🛠️ Tecnologias e Metodologia
+Metodologia: Sprints Quinzenais (Ágil).
+Ferramentas: GitHub (Versionamento), Canva (Design), Google Docs (Relatório).
+Foco: Segurança da Informação, LGPD e Prevenção de Fraudes Financeiras.
