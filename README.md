@@ -1,4 +1,4 @@
-Integrantes:Tauanny Nascimento Terto; Thamyrys Franco Barbosa; Diego Costa de Sousa; Walter Gabriel Dias Ferreira; Higor da Silva Oliveira Souza; Laila de Araujo de jesus
+Integrantes:Thamyrys Franco Barbosa; Diego Costa de Sousa; Walter Gabriel Dias Ferreira; Higor da Silva Oliveira Souza; Laila de Araujo de jesus
 
 Projeto Integrado - Consultoria de Segurança Digital (Contabilidade)
 
