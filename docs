@@ -1,1 +1,29 @@
+METODOLOGIA
 
+A metodologia adotada para este projeto baseia-se na análise de riscos e no planejamento estratégico de segurança digital, com foco no atendimento às necessidades de um escritório de contabilidade e seus respectivos clientes. O desenvolvimento será estruturado através de Sprints Quinzenais, conforme o modelo de gestão proposto na disciplina, permitindo entregas incrementais e a colaboração efetiva dos seis integrantes do grupo.
+Para a elaboração da cartilha informativa, o grupo realizará pesquisas bibliográficas sobre a Lei Geral de Proteção de Dados (LGPD) e normativas de segurança da informação (como a ISO 27001 em caráter conceitual). O controle de versão de toda a documentação, incluindo relatórios e artefatos visuais, será centralizado em um repositório público no GitHub, garantindo a integridade e a rastreabilidade das contribuições de cada membro.
+A criação do conteúdo visual utilizará ferramentas de design para garantir uma linguagem acessível e profissional, enquanto a validação técnica será feita por meio de um plano de testes documental, assegurando que as orientações de segurança sejam claras, mensuráveis e alcançáveis para o público-alvo.
+
+01 - Cadastro de Despesa
+	Adiciona as despesas fixas, digitando um valor fixo e escolhendo um tipo, como alimentação.
+		Oq deve acontecer: aparecer no historico e diminuir o saldo da conta.
+02 - Consulta de Cãmbio
+	Clicar no botão de atualizar para saber o valor da cotação do dolar
+		Oq deve acontecer: O ap deve exibir o valor atual do Dolar e Euro com API 
+
+03 - Alerta de Meta
+	O usuario força um gasto acima do limite mensal para testar o sistema de Meta
+		Oq deve acontecer: O sistema deve emitir o aviso "Meta Excedida". Caso não avise, falha critica
+
+04- Filtro de Relatório
+	O usuario tenta puxar as informações de um mes especifico no grafico
+		Oq deve acontecer: O grafico deve mostrar apenas o periodo selecionado (sem misturar dados)
+
+05 - Persistência
+	Feche o aplicativo e abra novamente, para ver se os dados continuam lá, sem sumir
+		'Oq deve acontecer: Os dados devem permanecer, caso contrario é um bug grave
+
+
+06 - Busca de Ativos
+	Busca uma ação em tempo real, por meio de seu codigo
+	Oq deve acontecer: O app deve retornar o preço atualizado. Se vier errado, atrasado pode ser problema na fonte de dados
